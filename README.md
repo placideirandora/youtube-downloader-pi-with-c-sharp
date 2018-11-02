@@ -1,5 +1,5 @@
 # youtube-downloader-pi
-A lightweight software application which downloads videos from YouTube.
+A lightweight desktop software application which downloads videos from YouTube.
 
 I developed this application in C#.NET with Microsoft Visual Studio Professional 2017.
 
