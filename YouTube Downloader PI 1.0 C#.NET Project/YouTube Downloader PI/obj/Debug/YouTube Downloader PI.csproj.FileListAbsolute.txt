@@ -1,0 +1,28 @@
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\YouTube Downloader PI.exe.config
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\YouTube Downloader PI.exe
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\YouTube Downloader PI.pdb
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\YoutubeExtractor.dll
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\YoutubeExtractor.xml
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube Downloader PI.csprojResolveAssemblyReference.cache
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube_Downloader_PI.mainForm.resources
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube_Downloader_PI.Properties.Resources.resources
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube Downloader PI.csproj.GenerateResource.Cache
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube Downloader PI.csproj.CoreCompileInputs.cache
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube Downloader PI.exe
+C:\Users\Placide IRANDORA\source\repos\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube Downloader PI.pdb
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\YouTube Downloader PI.exe.config
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\YouTube Downloader PI.exe
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\YouTube Downloader PI.pdb
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\YoutubeExtractor.dll
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\bin\Debug\YoutubeExtractor.xml
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube_Downloader_PI.mainForm.resources
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube_Downloader_PI.Properties.Resources.resources
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube Downloader PI.csproj.GenerateResource.Cache
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube Downloader PI.csproj.CoreCompileInputs.cache
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube Downloader PI.exe
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube Downloader PI.pdb
+C:\Users\Placide IRANDORA\Desktop\YouTube Downloader PI\YouTube Downloader PI\obj\Debug\YouTube Downloader PI.csprojResolveAssemblyReference.cache
