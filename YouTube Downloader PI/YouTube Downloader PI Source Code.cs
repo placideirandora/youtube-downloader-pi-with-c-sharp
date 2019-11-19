@@ -20,11 +20,6 @@ namespace YouTube_Downloader_PI
             InitializeComponent();
         }
 
-        private void panel2_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
         protected StatusBar mainStatusBar = new StatusBar();
         protected StatusBarPanel statusPanel1 = new StatusBarPanel();
         protected StatusBarPanel datepanel = new StatusBarPanel();
@@ -190,47 +185,10 @@ namespace YouTube_Downloader_PI
                 " will be saved while and after being downloaded from YouTube. ", "Select The Video Storage Location" , MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
-       
-
         private void linkLabelProgressBar_LinkClicked_1(object sender, LinkLabelLinkClickedEventArgs e)
         {
             MessageBox.Show("This is the progress bar of the video download operation. It shows" +
                " the percentage of the video download operation.", "Video Download Progress", MessageBoxButtons.OK, MessageBoxIcon.Information);
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel3_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void lblPercentage_Click(object sender, EventArgs e)
-        {
-           
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnClipBoardPaste_Click_1(object sender, EventArgs e)
-        {
-            textBoxUrl.Text = Clipboard.GetText();
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
-        {
-
         }
     }
 }
